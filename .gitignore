@@ -131,5 +131,5 @@ dmypy.json
 # Project specific
 *config.yml
 *matchmaking.json
-"engines/stockfish-windows-x86-64-avx2.exe" 
-"engines/stockfish-windows-x86-64-avx2.exe" 
+ engines/stockfish-windows-x86-64-avx2.exe 
+ 
